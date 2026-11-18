@@ -19,6 +19,7 @@ Python & Data Science réalisés sur Google Colab.
 |TD4|(Copie_de_td04_enonce.ipynb)✅|
 |TD5|(Copie_de_td05_enonce.ipynb)✅|
 |TD6|(td06_enonce.ipynb)logique flux de controle et boucles|✅|
+|TD7|(td07_enonce.ipynb)|etude de cas et mini-projet|✅|
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
